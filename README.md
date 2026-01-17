@@ -1,7 +1,7 @@
 # Event Booking Web Application
 
 - Backend deployment - http://localhost:9090
-- Frontend deployment - http:localhost:3000
+- Frontend deployment - http://localhost:3000
 
 ## Description
 
