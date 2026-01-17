@@ -1,7 +1,7 @@
 # Event Booking Web Application
 
-- Backend deployment - https://ticket-a8ez.onrender.com
-- Frontend deployment - https://ticket-booking-app-iklx.vercel.app/
+- Backend deployment - http://localhost:9090
+- Frontend deployment - http:localhost:3000
 
 ## Description
 
